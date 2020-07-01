@@ -59,6 +59,7 @@ tags: lecture, carpentries, epidemiology
 | -------------- | ------------- | ---------------------- |
 | Does not know  | Novice        | Competent practitioner |
 | Knows          | Expert        | Master                 |
+
 ---
 
 ## Examples of novice Epidemiologist?
@@ -183,16 +184,19 @@ tags: lecture, carpentries, epidemiology
 ---
 
 ## Illustration of live coding: step 1: age-specific prevalence
+
 ![](https://i.imgur.com/J29c3Rc.png)
 
 ---
 
 ## Illustration of live coding: step 2: SEGI population
+
 ![](https://i.imgur.com/gOyF4aM.png)
 
 ---
 
 ## Illustration of live coding: steps 3 and 4: mulitply and add
+
 ![](https://i.imgur.com/jcZgGuq.png)
 
 ---
@@ -223,11 +227,13 @@ tags: lecture, carpentries, epidemiology
 ---
 
 ## End of class feedbacks from students
+
 ![](https://i.imgur.com/BbtVuqR.png)
 
 ---
 
 ## Sample feedback
+
 ![](https://i.imgur.com/f7Tt298.png)
 
 ---
