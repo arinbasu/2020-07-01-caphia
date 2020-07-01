@@ -2,7 +2,12 @@
 tags: 'lecture, carpentries, epidemiology'
 title: The Carpentries model for teaching epidemiology
 author: Arindam Basu
+<<<<<<< HEAD
 ---
+=======
+tags: slides, caphia
+***
+>>>>>>> 9614caeefb7d53106d34023021c0c4e69fb38ba7
 
  
 
@@ -20,11 +25,49 @@ author: Arindam Basu
 Opinionated look at teaching Epidemiology
 -----------------------------------------
 
+<<<<<<< HEAD
  
 
 -   Distribution
 
 -   Determinants of diseases
+=======
+## Opinionated look at teaching Epidemiology
+- Distribution
+- Determinants of diseases
+- Use of information for disease prevention and health promotion
+- Students should learn applied skills
+
+---
+
+## What aspects work well on didactic classrooms
+- Theory of Epidemiology
+- Principles of Epidemic investigation 
+- Principles of Epidemic modelling
+- Principles of Internal validity 
+- Principles of Causal Inference
+- Theories of counterfactuals
+
+---
+
+## Suitable for discursive classrooms and problem solving
+- Discussion of Exemplars (John Snow, James Lind)
+- Discussion of DAGs and SWIGs in counterfactual theories of causation
+- Debating Epidemiological Study designs
+- Critical appraisal of epidemiological studies using GRADE approach
+- Drafting of exposure assessment using questionnaires (social epidemiology)
+
+---
+
+## Examples: Hands-on
+- Standardised mortality/morbidity/prevalence
+- Stratified analysis of two by two tables
+- Calculation of Absolute Risk, Relative Risk, PAR% etc
+- Sample size estimation and power calculation
+- Hands on analysis of epidemiological data analysis using Epi Info/Stata/R
+
+---
+>>>>>>> 9614caeefb7d53106d34023021c0c4e69fb38ba7
 
 -   Use of information for disease prevention and health promotion
 
@@ -344,6 +387,7 @@ Lessons learned
 
 -   Group students in pairs
 
+<<<<<<< HEAD
 -   Teach in pairs
 
 Next steps
@@ -355,3 +399,6 @@ Next steps
 
 Conclusions
 -----------
+=======
+---
+>>>>>>> 9614caeefb7d53106d34023021c0c4e69fb38ba7
