@@ -1,8 +1,8 @@
 ---
 title: The Carpentries model for teaching epidemiology
 author: Arindam Basu
-tags: lecture, carpentries, epidemiology
----
+tags: slides, caphia
+***
 
 ## What this short workshop will cover
 
@@ -18,7 +18,9 @@ tags: lecture, carpentries, epidemiology
 - Determinants of diseases
 - Use of information for disease prevention and health promotion
 - Students should learn applied skills
+
 ---
+
 ## What aspects work well on didactic classrooms
 - Theory of Epidemiology
 - Principles of Epidemic investigation 
@@ -26,6 +28,7 @@ tags: lecture, carpentries, epidemiology
 - Principles of Internal validity 
 - Principles of Causal Inference
 - Theories of counterfactuals
+
 ---
 
 ## Suitable for discursive classrooms and problem solving
@@ -34,6 +37,7 @@ tags: lecture, carpentries, epidemiology
 - Debating Epidemiological Study designs
 - Critical appraisal of epidemiological studies using GRADE approach
 - Drafting of exposure assessment using questionnaires (social epidemiology)
+
 ---
 
 ## Examples: Hands-on
@@ -42,6 +46,7 @@ tags: lecture, carpentries, epidemiology
 - Calculation of Absolute Risk, Relative Risk, PAR% etc
 - Sample size estimation and power calculation
 - Hands on analysis of epidemiological data analysis using Epi Info/Stata/R
+
 ---
 
 ## The Carpentries model
@@ -251,5 +256,3 @@ tags: lecture, carpentries, epidemiology
 - It is possible to teach Epidemiological methods using the Carpentries style
 
 ---
-
-## Conclusions
